@@ -2,9 +2,9 @@
   Responsive Web Design
 </h1>
 
-<h3>
+<h5 align="center">
   <a href="https://matheusfd3.github.io/responsive-web-design/">https://matheusfd3.github.io/responsive-web-design/</a>
-</h3>
+</h5>
 
 ### **Desktop**
 <h2 align="center">
